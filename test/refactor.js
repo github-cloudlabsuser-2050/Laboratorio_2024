@@ -1,4 +1,4 @@
-function refactorizar(){
+function refactor(){
     const languages = {
         en: {
             page: "page1",
