@@ -1,13 +1,12 @@
 function refactorizar(){
-    let languague = {
-        "en": {
+    const languages = {
+        en: {
             page: "page1",
             type: "type"
-        }
-        ,
-        "es": {
+        },
+        es: {
             page: "página1",
             type: "tipo"
         }
-    }
+    };
 }
